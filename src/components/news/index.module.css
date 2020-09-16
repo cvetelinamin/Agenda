@@ -1,0 +1,38 @@
+.container {
+    width: 16em;
+    margin-bottom: 1em;
+    position: relative;
+}
+
+.container::before {
+    content: '';
+    background-color: hsl(0, 1%, 72%);
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.5;
+}
+
+.image {
+    width: 16em;
+    height: 150px;
+    position: relative;
+}
+
+.wrapper {
+    padding: 0.5em;
+}
+
+span,
+.author {
+    color: #ffffff;
+    font-size: 12px;
+}
+
+.author {
+    text-align: right;
+    font-style: italic;
+    text-transform: none;
+}

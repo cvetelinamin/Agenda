@@ -1,0 +1,27 @@
+.container {
+    background: url("../../images/featured-events-bg.jpg") no-repeat;
+
+    position: relative;
+}
+
+.wrapper {
+    padding: 10em;
+}
+
+.image {
+    position: absolute;
+    height: auto;
+    width: 100%;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.events {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

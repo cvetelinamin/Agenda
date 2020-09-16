@@ -1,0 +1,25 @@
+.container {
+    background: url(../../images/featured-events-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100em;
+    position: relative;
+}
+
+.titles {
+    position: absolute;
+    top: 15%; left: 30%;
+    transform: translate(-50%,-50%);
+}
+
+.news-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 70em;
+    margin: 0 auto;
+    position: absolute;
+    top: 40%; left: 50%;
+    transform: translate(-50%,-50%);
+}

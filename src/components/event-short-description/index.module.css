@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+.content {
+    text-align: center;
+}
+
+.date {
+    font-weight: bold;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    color: #9a28d7;
+    margin: 0;
+}

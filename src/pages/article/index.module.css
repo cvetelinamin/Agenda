@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-image {
+    height: 16em;
+    position: absolute;
+}
+

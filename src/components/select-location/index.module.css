@@ -1,0 +1,15 @@
+.select {
+    padding: 14px 32px;
+    margin: 20px 0;
+    border: 2px solid #ffffff;
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    background: linear-gradient(270deg, rgba(171,0,229,1) 0%, rgba(88,20,121,1) 100%);
+    color: #ffffff;
+}
+
+.option {
+    background: #9a28d7;
+    padding: 5px 0;
+}

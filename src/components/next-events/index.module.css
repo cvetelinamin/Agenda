@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    flex: 0 0 33.33%;
+    width: 80em;
+    margin: 0 auto;
+    margin-top: 3em;
+    justify-content: space-between;
+}

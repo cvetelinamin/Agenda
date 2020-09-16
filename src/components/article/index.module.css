@@ -1,0 +1,17 @@
+.container {
+    width: 60em;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 10em;
+}
+
+.content {
+    margin: 2em;
+    display: block;
+}
+
+.content::first-letter {
+    font-size: 250%;
+    margin-bottom: 50px;
+}
+

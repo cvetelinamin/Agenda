@@ -1,0 +1,14 @@
+.container {
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.input {
+    border: 1px solid grey;
+    border-radius: 10px;
+    height: 3em;
+    background-color: white;
+    width: 80%;
+}

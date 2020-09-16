@@ -1,0 +1,43 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 22em;
+}
+
+.image {
+    height: 500px;
+    width: 100%;
+}
+
+.title {
+    margin-top: 32px;
+    font-size: 28px;
+    font-weight: bold;
+    color: #232127;
+    text-align: center;
+}
+
+.date {
+    margin-top: 12px;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #777777;
+    text-align: center;
+}
+
+.event-date {
+    color: #9a28d7;
+    font-size: 18px;
+    margin-left: 1em;
+}
+
+.description {
+    margin-top: 22px;
+    font-size: 18px;
+    line-height: 1.7;
+    color: #777777;
+    text-align: center;
+    text-transform: none;
+}
+

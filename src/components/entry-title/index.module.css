@@ -1,0 +1,89 @@
+.header-title {
+    position: relative;
+    font-size: 4em;
+    text-align: left;
+    width: 100%;
+    height: auto;
+    color: #ffffff;
+    margin: 0;
+    margin-left: 3em;
+}
+
+.about-title {
+    font-size: 3em;
+}
+
+.events-title {
+    top: 0;
+    text-align: left;
+    color: #ffffff;
+    font-size: 60px;
+}
+
+.event-title {
+    color: #000000;
+    font-size: 2.5em;
+    font-weight: bold;
+    margin: 0;
+    padding: 1em 0;
+    text-align: center;
+}
+
+.comments-title {
+    text-align: right;
+    font-size: 2em;
+    color: black;
+}
+
+.login-title,
+.register-title {
+    font-size: 39px;
+    color: #333333;
+    line-height: 1.2;
+    text-align: center;
+    padding-bottom: 49px;
+    margin: 0;
+}
+
+.contacts-main-title {
+    font-size: 50px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.contacts-title {
+    font-size: 46px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.contacts-info-title {
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.news-main-title {
+    font-size: 50px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.news-second-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+    font-style: italic;
+}
+
+.news-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.article-title {
+    font-size: 35px;
+    text-align: center;
+    position: relative;
+}

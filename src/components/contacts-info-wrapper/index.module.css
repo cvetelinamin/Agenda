@@ -1,0 +1,21 @@
+.info-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.icon-container {
+    background-color: rgba(255,255,255,0.5);
+    width: 100px;
+    line-height: 98px;
+    border-radius: 50%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.icon {
+    height: 48px;
+    width: 48px;
+    vertical-align: middle;
+    color: #ffffff;
+}

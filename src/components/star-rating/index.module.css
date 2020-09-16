@@ -1,0 +1,14 @@
+.container {
+    margin: 1em;
+    text-align: center;
+}
+
+.radio {
+    display: none;
+}
+
+.star {
+    font-size: 2.5em;
+    cursor: pointer;
+    transition: color 200ms;
+}
